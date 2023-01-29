@@ -1,0 +1,13 @@
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\bin\Debug\netcoreapp3.1\Config.deps.json
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\bin\Debug\netcoreapp3.1\Config.dll
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\bin\Debug\netcoreapp3.1\Config.pdb
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\bin\Debug\netcoreapp3.1\Data.dll
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\bin\Debug\netcoreapp3.1\Data.pdb
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\obj\Debug\netcoreapp3.1\Config.csproj.AssemblyReference.cache
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\obj\Debug\netcoreapp3.1\Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\obj\Debug\netcoreapp3.1\Config.AssemblyInfoInputs.cache
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\obj\Debug\netcoreapp3.1\Config.AssemblyInfo.cs
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\obj\Debug\netcoreapp3.1\Config.csproj.CoreCompileInputs.cache
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\obj\Debug\netcoreapp3.1\Config.csproj.CopyComplete
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\obj\Debug\netcoreapp3.1\Config.dll
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Helper\obj\Debug\netcoreapp3.1\Config.pdb

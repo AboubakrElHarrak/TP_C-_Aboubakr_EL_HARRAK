@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NG4gRPS8aEXwMFA270mUdbBvrWDOpnHGYEzPte8v7uVkAN5wWG4eBINJi0fIQBBlMaHBgbLAQu5bN+mYmvRXA==",
+  "success": true,
+  "projectFilePath": "C:\\ISIMA\\ZZ2\\DotNet\\TP_final\\Sol\\Serialisation\\Serialisation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aboubakr\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

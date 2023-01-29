@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsuMDyDWeZ0R39Bogg+HNdK5N6/DXVMJNYsYOIjy59jsSYydo0Z9Aqrk0UeXK2W3mvp/q2Yc3SGdb0Q2gZF+Fg==",
+  "success": true,
+  "projectFilePath": "C:\\ISIMA\\ZZ2\\DotNet\\TP_final\\Sol\\ContactManager\\ContactManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aboubakr\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\aboubakr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

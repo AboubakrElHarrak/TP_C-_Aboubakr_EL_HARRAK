@@ -1,0 +1,15 @@
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.csproj.AssemblyReference.cache
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.AssemblyInfoInputs.cache
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.AssemblyInfo.cs
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.csproj.CoreCompileInputs.cache
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\bin\Debug\netcoreapp3.1\Serialisation.deps.json
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\bin\Debug\netcoreapp3.1\Serialisation.dll
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\bin\Debug\netcoreapp3.1\Serialisation.pdb
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\bin\Debug\netcoreapp3.1\Config.dll
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\bin\Debug\netcoreapp3.1\Data.dll
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\bin\Debug\netcoreapp3.1\Data.pdb
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\bin\Debug\netcoreapp3.1\Config.pdb
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.csproj.CopyComplete
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.dll
+C:\ISIMA\ZZ2\DotNet\TP_final\Sol\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.pdb
